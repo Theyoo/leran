@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">leran</string>
+    <string name="egg_notification_channel_id" translatable="false">my_chanel</string>
+    <string name="notification_title">MyApp</string>
+    <string name="channel_description">Шалом ниггеры</string>
+    <string name="open">Открыть</string>
+</resources>
